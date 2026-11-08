@@ -1,3 +1,13 @@
+# 1.1.72
+
+## 中文
+
+- 版本 **1.1.72**。本版本是 1.1.71 的兼容更新版本，仅做兼容最新 DSH，无其他修改。
+
+## English
+
+- **1.1.72**, a compatibility update of 1.1.71 for the latest DSH; no other changes.
+
 # 1.1.71
 
 ## 中文
